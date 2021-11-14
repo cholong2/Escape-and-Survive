@@ -4,8 +4,10 @@
 1인칭 방탈출게임으로 문제를 풀고 장애물을 피하며 방에서 탈출해야합니다.
 
 ### Contents
-> Breif description
-> 
+> [Breif decription](https://github.com/cholong2/Escape-and-Survive/blob/main/README.md#breif-description)  
+> [Key features](https://github.com/cholong2/Escape-and-Survive/blob/main/README.md#key-features)  
+> [Implementation details](https://github.com/cholong2/Escape-and-Survive/blob/main/README.md#implementation-details)  
+> [team members](https://github.com/cholong2/Escape-and-Survive/blob/main/README.md#team-members) 
 
 # Breif description
 ![image](https://user-images.githubusercontent.com/80766477/141669140-ba57e068-6d31-4790-b54a-19150fcd3918.png)
