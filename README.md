@@ -3,6 +3,10 @@
 컴퓨터 그래픽스 텀프로젝트입니다. WebGL, threejs 라이브러리를 사용했습니다.    
 1인칭 방탈출게임으로 문제를 풀고 장애물을 피하며 방에서 탈출해야합니다.
 
+### Contents
+> Breif description
+> 
+
 # Breif description
 ![image](https://user-images.githubusercontent.com/80766477/141669140-ba57e068-6d31-4790-b54a-19150fcd3918.png)
 
