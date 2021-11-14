@@ -55,14 +55,14 @@
 - 제한된 시간 내에 탈출하지 못할 시 미션 실패 페이지 로드
 - Let's try again 버튼을 누르면 재도전 가능
 
-### Time limit
+### Others
 ![image](https://user-images.githubusercontent.com/80766477/141670126-25a3ec3e-bfd5-4304-bf03-06ead58b8fcd.png)
 - 백그라운드 음악 재생
 - 플레이어 1인칭 시점으로 카메라 위치 조정
 - 조명, 그림자 구현 
 
 # team members
-박초롱
-김현민
+박초롱 
+김현민 
 윤채현 
 최지안 
