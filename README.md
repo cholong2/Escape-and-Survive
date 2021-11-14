@@ -27,7 +27,7 @@
 
 # Implementation details
 ### Click event
-![image](https://user-images.githubusercontent.com/80766477/141669858-c4c4e08f-d5d5-4165-9929-6e708573aba5.png)
+![image](https://user-images.githubusercontent.com/80766477/141670211-92b08795-2083-4164-8b6e-ef9f34dd8155.png)
 - gltf를 클릭했을 때 문제 오브젝트 생성
 - 전구를 클릭했을 때 light 추가
 - 문을 클릭했을 때 애니메이션 시작
